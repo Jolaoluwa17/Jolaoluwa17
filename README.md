@@ -26,4 +26,7 @@ I'm **Jolaoluwa**, a passionate **Full Stack Developer** specializing in the **M
 ### ⚡ Fun fact:
 - I enjoy playing game and coding at my leisure
 
+### 📊 GitHub Stats:  
+![Jolaoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jolaoluwa17&show_icons=true&theme=radical) 
+
 Feel free to check out my repositories to see my work. Let’s connect!
